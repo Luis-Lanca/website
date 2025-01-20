@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Luís Lança</title>
+    <link>https://luis-lanca.github.io/website/posts/</link>
+    <description>Recent content in Posts on Luís Lança</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2025 21:06:26 +0000</lastBuildDate>
+    <atom:link href="https://luis-lanca.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Home Lab</title>
+      <link>https://luis-lanca.github.io/website/posts/my-home-lab/</link>
+      <pubDate>Mon, 20 Jan 2025 21:06:26 +0000</pubDate>
+      <guid>https://luis-lanca.github.io/website/posts/my-home-lab/</guid>
+      <description>&lt;h1 id=&#34;building-a-home-lab-my-it-playground&#34;&gt;Building a Home Lab: My IT Playground&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my first blog post! Today, I’ll share my journey of setting up a home lab—a personal playground where I explore new technologies, troubleshoot problems, and learn by doing. Whether you&amp;rsquo;re an aspiring IT professional or a tech enthusiast, I hope this inspires you to build your own home lab.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-build-a-home-lab&#34;&gt;Why Build a Home Lab?&lt;/h2&gt;&#xA;&lt;p&gt;A home lab is more than just a hobby; it’s a platform for learning and experimentation. It lets you:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
